@@ -14,4 +14,4 @@ chmod +x $YUZU_PATH
 fi
 
 # Launch Yuzu
-$YUZU_PATH
+$YUZU_PATH$@
